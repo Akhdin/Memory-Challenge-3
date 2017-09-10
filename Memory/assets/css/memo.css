@@ -1,0 +1,49 @@
+
+body{
+    background-color: black;
+    
+    background-position: center;
+}
+
+#game {
+    max-height: 1980px;
+    max-width: 550px;
+    margin: 40px auto 40px auto;
+    background-color: #FEA838;
+    border-radius: 5px;
+}
+
+.white{
+    width:45%;
+    margin: auto;
+    height:80%;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+.tile {
+    height: 100px;
+    width: 100px;
+    border: 3px solid whitesmoke;
+    border-radius: 5%;
+    float: left;
+    margin: 15px;
+    background-color: #1a1a1a;
+}
+
+
+img {
+  height: 100px;
+  width:  100px;
+  visibility: hidden;
+}
+
+hr {
+  visibility: hidden;
+}
+
+h1{
+    max-height: 1980px;
+    max-width: 300px;
+    color: #010101;
+    font-family: Shrikhand;
+}
